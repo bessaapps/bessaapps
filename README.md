@@ -1,12 +1,11 @@
 # Stop dreaming, start launching. 🚀
 
-Transforming bold ideas into custom cross-platform solutions, I guide innovators and organizations from initial ideation all the way to launch. I specialize in end-to-end development, creating apps that work beautifully across iOS, Android, and the web.
 
 🌐 [bessaapps.com](https://bessaapps.com)
 
-🔭 I’m currently working on Bessa and AS/400 App.
+🔭 Working on Bessa and AS/400 App.
 
-🌱 I’m currently helping: Innovators and organizations who feel immobilized by the technical process.
+🌱 Helping **innovators** and **organizations** who feel immobilized by the technical process.
 
 ⚡ Services:
 
