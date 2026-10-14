@@ -14,9 +14,9 @@
 - Maintenance
 - Marketing
 
-![Static Badge](https://img.shields.io/badge/-Typescript-greenyellow?logo=typescript&logoColor=black&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-React%20Native-greenyellow?logo=react&logoColor=black&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Expo-greenyellow?logo=expo&logoColor=black&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Node-greenyellow?logo=node.js&logoColor=black&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Express-greenyellow?logo=express&logoColor=black&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Postgres-greenyellow?logo=postgresql&logoColor=black&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Typescript-black?logo=typescript&logoColor=white&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-React%20Native-black?logo=react&logoColor=white&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Expo-black?logo=expo&logoColor=white&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Node-black?logo=node.js&logoColor=white&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Postgres-black?logo=postgresql&logoColor=white&style=flat-square)
