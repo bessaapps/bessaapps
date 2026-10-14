@@ -4,24 +4,20 @@ Transforming bold ideas into custom cross-platform solutions, I guide innovators
 
 🌐 [bessaapps.com](https://bessaapps.com)
 
-🔭 I’m currently working on: [Bessa](https://getbessa.com) and [AS/400 App](https://as400app.com)
+🔭 I’m currently working on Bessa and AS/400 App.
 
 🌱 I’m currently helping: Innovators and organizations who feel immobilized by the technical process.
 
 ⚡ Services:
 
-- Custom Mobile & Web App Development
-- App Store & Google Play Distribution
-- ASO (App Store Optimization) & SEO
+- App Development
+- Distribution
+- Maintenance
+- Marketing
 
-![Static Badge](https://img.shields.io/badge/-Typescript-black?logo=typescript&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Javascript-black?logo=javascript&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-React-black?logo=react&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-React%20Native-black?style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Expo-black?logo=expo&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Bun-black?logo=bun&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Node-black?logo=node.js&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-Postgres-black?logo=postgresql&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&logoColor=white&style=flat-square)
-![Static Badge](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=white&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Typescript-greenyellow?logo=typescript&logoColor=black&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-React%20Native-greenyellow?logo=react&logoColor=black&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Expo-greenyellow?logo=expo&logoColor=black&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Node-greenyellow?logo=node.js&logoColor=black&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Express-greenyellow?logo=express&logoColor=black&style=flat-square)
+![Static Badge](https://img.shields.io/badge/-Postgres-greenyellow?logo=postgresql&logoColor=black&style=flat-square)
