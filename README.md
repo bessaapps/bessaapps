@@ -1,17 +1,18 @@
 # Stop dreaming, start launching. 🚀
 
+🌐 **[bessaapps.com](https://bessaapps.com)**
 
-🌐 [bessaapps.com](https://bessaapps.com)
+🔨 Working on Grind Guide, Bessa, and AS/400 App.
 
-🔭 Working on Bessa and AS/400 App.
+🧠 Helping **innovators** and **communities** build and publish their ideas to the app stores and to the web.
 
-🌱 Helping **innovators** and **organizations** who feel immobilized by the technical process.
+## ⚡ App Services:
 
-⚡ Services:
-
-- App Development
-- Distribution
+- Validation
+- Development
+- Quality Assurance
 - Maintenance
+- Distribution
 - Marketing
 
 ![Static Badge](https://img.shields.io/badge/-Typescript-black?logo=typescript&logoColor=white&style=flat-square)
