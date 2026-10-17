@@ -6,7 +6,7 @@
 
 🧠 Helping **innovators** and **communities** build and publish their ideas to the app stores and to the web.
 
-## ⚡ App Services:
+## App Services
 
 - Validation
 - Development
